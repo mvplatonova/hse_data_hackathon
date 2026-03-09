@@ -1,3 +1,5 @@
 docs/
 data/
 output/
+*.tex
+.DS_Store
